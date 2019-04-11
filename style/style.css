@@ -67,34 +67,34 @@
 }
 
 .wheel_animate{
-    -webkit-animation: goround 30s infinite linear; /* Safari 4+ */
-    -moz-animation:    goround 30s infinite linear; /* Fx 5+ */
-    -o-animation:      goround 30s infinite linear; /* Opera 12+ */
-    animation: goround 30s infinite linear;
+    -webkit-animation: goround 25s infinite linear; /* Safari 4+ */
+    -moz-animation:    goround 25s infinite linear; /* Fx 5+ */
+    -o-animation:      goround 25s infinite linear; /* Opera 12+ */
+    animation: goround 25s infinite linear;
 }
 .top_animate{
-    -webkit-animation: roundRobin12 30s infinite linear; /* Safari 4+ */
-    -moz-animation:    roundRobin12 30s infinite linear; /* Fx 5+ */
-    -o-animation:      roundRobin12 30s infinite linear; /* Opera 12+ */
-    animation: roundRobin12 30s infinite linear;
+    -webkit-animation: roundRobin12 25s infinite linear; /* Safari 4+ */
+    -moz-animation:    roundRobin12 25s infinite linear; /* Fx 5+ */
+    -o-animation:      roundRobin12 25s infinite linear; /* Opera 12+ */
+    animation: roundRobin12 25s infinite linear;
 }
 .right_animate{
-    -webkit-animation: roundRobin23 30s infinite linear; /* Safari 4+ */
-    -moz-animation:    roundRobin23 30s infinite linear; /* Fx 5+ */
-    -o-animation:      roundRobin23 30s infinite linear; /* Opera 12+ */
-    animation: roundRobin23 30s infinite linear;
+    -webkit-animation: roundRobin23 25s infinite linear; /* Safari 4+ */
+    -moz-animation:    roundRobin23 25s infinite linear; /* Fx 5+ */
+    -o-animation:      roundRobin23 25s infinite linear; /* Opera 12+ */
+    animation: roundRobin23 25s infinite linear;
 }
 .bottom_animate{
-    -webkit-animation: roundRobin34 30s infinite linear; /* Safari 4+ */
-    -moz-animation:    roundRobin34 30s infinite linear; /* Fx 5+ */
-    -o-animation:      roundRobin34 30s infinite linear; /* Opera 12+ */
-    animation: roundRobin34 30s infinite linear;
+    -webkit-animation: roundRobin34 25s infinite linear; /* Safari 4+ */
+    -moz-animation:    roundRobin34 25s infinite linear; /* Fx 5+ */
+    -o-animation:      roundRobin34 25s infinite linear; /* Opera 12+ */
+    animation: roundRobin34 25s infinite linear;
 }
 .left_animate{
-    -webkit-animation: roundRobin41 30s infinite linear; /* Safari 4+ */
-    -moz-animation:    roundRobin41 30s infinite linear; /* Fx 5+ */
-    -o-animation:      roundRobin41 30s infinite linear; /* Opera 12+ */
-    animation: roundRobin41 30s infinite linear;
+    -webkit-animation: roundRobin41 25s infinite linear; /* Safari 4+ */
+    -moz-animation:    roundRobin41 25s infinite linear; /* Fx 5+ */
+    -o-animation:      roundRobin41 25s infinite linear; /* Opera 12+ */
+    animation: roundRobin41 25s infinite linear;
 }
 
 
